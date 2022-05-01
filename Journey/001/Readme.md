@@ -2,7 +2,7 @@
 ![placeholder image](https://via.placeholder.com/1200x600)
 
 # New post title here
-
+The start of the learning
 ## Introduction
 
 ✍️ (Why) Explain in one or two sentences why you choose to do this project or cloud topic for your day's study.
@@ -21,6 +21,10 @@
 - ✍️ Document your trial and errors. Share what you tried to learn and understand about the cloud topic or while completing micro-project.
 - 🖼️ Show as many screenshot as possible so others can experience in your cloud research.
 
+Copied the project.
+Learning by just poking at it to see whats happening.
+Wondering is the DevOps one, GIT the one I need to start on.
+Trying to figure out how to use githib the way others do.
 ## Try yourself
 
 ✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
