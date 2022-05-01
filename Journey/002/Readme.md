@@ -26,6 +26,7 @@
 ✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
 
 ### Step 1 — Summary of Step
+https://github.com/100DaysOfCloud/100DaysOfCloudIdeas/blob/master/Projects/COM/COM01/COM01-AZ200.md
 
 ![Screenshot](https://via.placeholder.com/500x300)
 
