@@ -79,6 +79,12 @@ al Diffie-Hellman during the key exchange.
 
 
 More and more deployment require more secure mechnism e.g.Perfect Forward Secrecy. To provide PFS, cipher suite need to leverage  Elliptic-curve Diffie–Hellman (ECDH) or Ephemeral Diffie-Hellman during the key exchange.  In those cases, we can’t use private key to de-encrypt the traffic.
+
+
+Watch a video on Wireshark use
+https://www.youtube.com/watch?v=0X2BVwNX4ks&ab_channel=SharkFestWiresharkDeveloperandUserConference
+The title of this class is: "Behind the Green Lock: Examining SSL encryption/decryption using Wireshark" and was taught by Ross Bagurdes. This was recorded on June 28th at the Computer History Museum in Mountain View, California. 
+
 ## Try yourself
 
 ✍️ Add a mini tutorial to encourage the reader to get started learning something new about the cloud.
