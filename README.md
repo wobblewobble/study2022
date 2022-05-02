@@ -33,16 +33,16 @@ Move on to the DevOps one.
 
 ## Stepping out the door
 
-- [X] ☁️ 1 > [My Start](Journey/001/Readme.md)
-- [x] ☁️ 2 > [Day 1 - Azure VMware Solutions](Journey/002/Readme.md)
-- [x] ☁️ 3 > [Day 2 - Certificates and Wireshark](Journey/003/Readme.md)
-- [ ] ☁️ 4 > [](Journey/004/Readme.md)
-- [ ] ☁️ 5 > [](Journey/005/Readme.md)
-- [ ] ☁️ 6 > [](Journey/006/Readme.md)
-- [ ] ☁️ 7 > [](Journey/007/Readme.md)
-- [ ] ☁️ 8 > [](Journey/008/Readme.md)
-- [ ] ☁️ 9 > [](Journey/009/Readme.md)
-- [ ] ☁️ 10 > [](Journey/010/Readme.md)
+- [X] ☁️ 1 > [Day 1 - My Start](Journey/001/Readme.md)
+- [x] ☁️ 2 > [Day 2 - Azure VMware Solutions](Journey/002/Readme.md)
+- [x] ☁️ 3 > [Day 3 - Certificates and Wireshark](Journey/003/Readme.md)
+- [ ] ☁️ 4 > [Day 4 - Fiddler](Journey/004/Readme.md)
+- [ ] ☁️ 5 > [Day 5 - Message Trace or xxx](Journey/005/Readme.md)
+- [ ] ☁️ 6 > [Day 6 - ](Journey/006/Readme.md)
+- [ ] ☁️ 7 > [Day 7 - ](Journey/007/Readme.md)
+- [ ] ☁️ 8 > [Day 8 - ](Journey/008/Readme.md)
+- [ ] ☁️ 9 > [Day 9 - ](Journey/009/Readme.md)
+- [ ] ☁️ 10 > [Day 10 - ](Journey/010/Readme.md)
 
 ## Walking down the road
 
