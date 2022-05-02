@@ -28,8 +28,8 @@ Tell us where you want to be at the end of the challenge
 A little wiser.
 Move on to the DevOps one.
 
-- [Link to your Twitter](https://twitter.com/kwydk)
-- [Link to your LinkedIn](https://www.linkedin.com/in/mcglynnjoe/)
+- [Twitter](https://twitter.com/kwydk)
+- [LinkedIn](https://www.linkedin.com/in/mcglynnjoe/)
 
 ## Stepping out the door
 
